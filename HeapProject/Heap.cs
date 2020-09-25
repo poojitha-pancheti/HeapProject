@@ -77,9 +77,9 @@ namespace HeapProject
             }
             a[i] = k;
         }
-        //public void Display()
-        //{
+        public void Display()
+        {
 
-        //}
+        }
     }
 }
