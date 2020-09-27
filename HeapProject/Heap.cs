@@ -79,6 +79,11 @@ namespace HeapProject
         }
         public void Display()
         {
+            Console.WriteLine("Heap Size : " + n);
+            for (int i = 1; i <= n; i++)
+                Console.WriteLine(a[i] + " ");
+
+
 
         }
     }
